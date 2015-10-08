@@ -15,7 +15,7 @@ public class EjerciciosJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("José Antonio Franco Martín me va a comer los huevos");
+        System.out.println("José Antonio Franco Martín es mi compañero de mesa.");
     }
     
 }
